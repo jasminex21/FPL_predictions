@@ -1,0 +1,161 @@
+season,team,opponent_team
+2016/2017,1,Arsenal
+2016/2017,2,Bournemouth
+2016/2017,3,Burnley
+2016/2017,4,Chelsea
+2016/2017,5,Crystal Palace
+2016/2017,6,Everton
+2016/2017,7,Hull City
+2016/2017,8,Leicester City
+2016/2017,9,Liverpool
+2016/2017,10,Manchester City
+2016/2017,11,Manchester United
+2016/2017,12,Middlesbrough
+2016/2017,13,Southampton
+2016/2017,14,Stoke City
+2016/2017,15,Sunderland
+2016/2017,16,Swansea City
+2016/2017,17,Tottenham Hotspur
+2016/2017,18,Watford
+2016/2017,19,West Bromwich Albion
+2016/2017,20,West Ham United
+2017/2018,1,Arsenal
+2017/2018,2,Bournemouth
+2017/2018,3,Brighton & Hove Albion
+2017/2018,4,Burnley
+2017/2018,5,Chelsea
+2017/2018,6,Crystal Palace
+2017/2018,7,Everton
+2017/2018,8,Huddersfield Town
+2017/2018,9,Leicester City
+2017/2018,10,Liverpool
+2017/2018,11,Manchester City
+2017/2018,12,Manchester United
+2017/2018,13,Newcastle United
+2017/2018,14,Southampton
+2017/2018,15,Stoke City
+2017/2018,16,Swansea City
+2017/2018,17,Tottenham Hotspur
+2017/2018,18,Watford
+2017/2018,19,West Bromwich Albion
+2017/2018,20,West Ham United
+2018/2019,1,Arsenal
+2018/2019,2,Bournemouth
+2018/2019,3,Brighton & Hove Albion
+2018/2019,4,Burnley
+2018/2019,5,Cardiff
+2018/2019,6,Chelsea
+2018/2019,7,Crystal Palace
+2018/2019,8,Everton
+2018/2019,9,Fulham
+2018/2019,10,Huddersfield Town
+2018/2019,11,Leicester City
+2018/2019,12,Liverpool
+2018/2019,13,Manchester City
+2018/2019,14,Manchester United
+2018/2019,15,Newcastle United
+2018/2019,16,Southampton
+2018/2019,17,Tottenham Hotspur
+2018/2019,18,Watford
+2018/2019,19,West Ham United
+2018/2019,20,Wolverhampton Wanderers
+2019/2020,1,Arsenal
+2019/2020,2,Aston Villa
+2019/2020,3,Bournemouth
+2019/2020,4,Brighton & Hove Albion
+2019/2020,5,Burnley
+2019/2020,6,Chelsea
+2019/2020,7,Crystal Palace
+2019/2020,8,Everton
+2019/2020,9,Leicester City
+2019/2020,10,Liverpool
+2019/2020,11,Manchester City
+2019/2020,12,Manchester United
+2019/2020,13,Newcastle United
+2019/2020,14,Norwich City
+2019/2020,15,Sheffield United
+2019/2020,16,Southampton
+2019/2020,17,Tottenham Hotspur
+2019/2020,18,Watford
+2019/2020,19,West Ham United
+2019/2020,20,Wolverhampton Wanderers
+2020/2021,1,Arsenal
+2020/2021,2,Aston Villa
+2020/2021,3,Brighton & Hove Albion
+2020/2021,4,Burnley
+2020/2021,5,Chelsea
+2020/2021,6,Crystal Palace
+2020/2021,7,Everton
+2020/2021,8,Fulham
+2020/2021,9,Leicester City
+2020/2021,10,Leeds United
+2020/2021,11,Liverpool
+2020/2021,12,Manchester City
+2020/2021,13,Manchester United
+2020/2021,14,Newcastle United
+2020/2021,15,Sheffield United
+2020/2021,16,Southampton
+2020/2021,17,Tottenham Hotspur
+2020/2021,18,West Bromwich Albion
+2020/2021,19,West Ham United
+2020/2021,20,Wolverhampton Wanderers
+2021/2022,1,Arsenal
+2021/2022,2,Aston Villa
+2021/2022,3,Brentford
+2021/2022,4,Brighton & Hove Albion
+2021/2022,5,Burnley
+2021/2022,6,Chelsea
+2021/2022,7,Crystal Palace
+2021/2022,8,Everton
+2021/2022,9,Leicester City
+2021/2022,10,Leeds United
+2021/2022,11,Liverpool
+2021/2022,12,Manchester City
+2021/2022,13,Manchester United
+2021/2022,14,Newcastle United
+2021/2022,15,Norwich City
+2021/2022,16,Southampton
+2021/2022,17,Tottenham Hotspur
+2021/2022,18,Watford
+2021/2022,19,West Ham United
+2021/2022,20,Wolverhampton Wanderers
+2022/2023,1,Arsenal
+2022/2023,2,Aston Villa
+2022/2023,3,Bournemouth
+2022/2023,4,Brentford
+2022/2023,5,Brighton & Hove Albion
+2022/2023,6,Chelsea
+2022/2023,7,Crystal Palace
+2022/2023,8,Everton
+2022/2023,9,Fulham
+2022/2023,10,Leicester City
+2022/2023,11,Leeds United
+2022/2023,12,Liverpool
+2022/2023,13,Manchester City
+2022/2023,14,Manchester United
+2022/2023,15,Newcastle United
+2022/2023,16,Nottingham Forest
+2022/2023,17,Southampton
+2022/2023,18,Tottenham Hotspur
+2022/2023,19,West Ham United
+2022/2023,20,Wolverhampton Wanderers
+2023/2024,1,Arsenal
+2023/2024,2,Aston Villa
+2023/2024,3,Bournemouth
+2023/2024,4,Brentford
+2023/2024,5,Brighton & Hove Albion
+2023/2024,6,Burnley
+2023/2024,7,Chelsea
+2023/2024,8,Crystal Palace
+2023/2024,9,Everton
+2023/2024,10,Fulham
+2023/2024,11,Liverpool
+2023/2024,12,Luton Town
+2023/2024,13,Manchester City
+2023/2024,14,Manchester United
+2023/2024,15,Newcastle United
+2023/2024,16,Nottingham Forest
+2023/2024,17,Sheffield United
+2023/2024,18,Tottenham Hotspur
+2023/2024,19,West Ham United
+2023/2024,20,Wolverhampton Wanderers
