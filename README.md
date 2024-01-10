@@ -12,7 +12,8 @@ As of now, I have investigated two means:
 The unpredictability of football, and sports in general, makes this a challenging proposition.
 
 2. Predicting the general amount of points a player will score, ranked compared to all other players
-One of the main use cases of this project (for me) is to predict which player out of the 15 players in my team would make the ideal captain selection (the captain's points are doubled for the given gameweek). As such, it would be useful to have an inkling of who is more likely to score the most points, even if the exact number of points is unknown. 
+One of the main use cases of this project (for me) is to predict which player out of the 15 players in my team would make the ideal captain selection (the captain's points are doubled for the given gameweek). As such, it would be useful to have an inkling of who is more likely to score the most points, even if the exact number of points is unknown.
+  - The average Spearman's correlation coefficient for a random 15-player team per (GW, season) combination was close to 66%, implying that when the exactness of the ranks is not considered, the predicted orders match up fairly well with the actual orders. However, a commonly-occurring issue that bogs down the correlation coefficient is consistent overestimation of point ranks, which in turn affects the ordering. This could in part be due to the inability to account for player injuries - while FPL managers can see player injury and availability information, this does not seem to be available in the API. 
 
 #### Credits
 - Historical FPL data up to 2023/24: [Fantasy-Premier-League by vaastav](https://github.com/vaastav/Fantasy-Premier-League)
