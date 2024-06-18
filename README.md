@@ -12,12 +12,12 @@ As of now, I have investigated two means:
 
 1. Predicting the *exact* number of points
 
-The unpredictability of football, and sports in general, makes this a challenging proposition.
+   * The unpredictability of football, and sports in general, makes this a challenging proposition.
 
 2. Predicting the general amount of points a player will score, ranked compared to all other players
    
-One of the main use cases of this project (for me) is to predict which player out of the 15 players in my team would make the ideal captain selection (the captain's points are doubled for the given gameweek). As such, it would be useful to have an inkling of who is more likely to score the most points, even if the exact number of points is unknown.
-  - The average Spearman's correlation coefficient for a random 15-player team per (GW, season) combination was close to 66%, implying that when the exactness of the ranks is not considered, the predicted orders match up fairly well with the actual orders. However, a commonly-occurring issue that bogs down the correlation coefficient is consistent overestimation of point ranks, which in turn affects the ordering. This could in part be due to the inability to account for player injuries - while FPL managers can see player injury and availability information, this does not seem to be available in the API.
+   * One of the main use cases of this project (for me) is to predict which player out of the 15 players in my team would make the ideal captain selection (the captain's points are doubled for the given gameweek). As such, it would be useful to have an inkling of who is more likely to score the most points, even if the exact number of points is unknown.
+      * The average Spearman's correlation coefficient for a random 15-player team per (GW, season) combination was close to 66%, implying that when the exactness of the ranks is not considered, the predicted orders match up fairly well with the actual orders. However, a commonly-occurring issue that bogs down the correlation coefficient is consistent overestimation of point ranks, which in turn affects the ordering. This could in part be due to the inability to account for player injuries - while FPL managers can see player injury and availability information, this does not seem to be available in the API.
 
 ### TODO
 - Create user interface (web application) USING STREAMLIT where users authenticate using their FPL login information, and are then able to access predictions
@@ -25,6 +25,7 @@ One of the main use cases of this project (for me) is to predict which player ou
 - Goes without saying, but see if you can improve the model predictivity in any way. Take a better look at the features.
 - How to deal with there not being enough data - the model predictions take into account rolling statistics from previous games. This won't exist for, say, the first GW of the season, unless I use data from past seasons (which doesn't necessarily make sense), and even then there are incoming players from the transfer window who won't be accounted for. Something to think abt.
 - Update the dataset? 23/24 season is over now bc I was too slow w this project
+- Also I went through the code and apparently I actually have no idea what's going on bc it's all aa mess. Organize the code before doing anything else. Make new directory and keep only the important files no extras please.
 
 #### Credits
 - Historical FPL data up to 2023/24: [Fantasy-Premier-League by vaastav](https://github.com/vaastav/Fantasy-Premier-League)
